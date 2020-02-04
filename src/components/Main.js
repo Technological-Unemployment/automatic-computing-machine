@@ -63,31 +63,7 @@ class Main extends React.Component {
           <h2 className="major">Work</h2>
           <span className="image main">
             <img src={pic02} alt="" />
-          </span>
-          /*
-            We want to preview images, so we need to register the Image Preview plugin
-            */
-           FilePond.registerPlugin(
-              // encodes the file as base64 data
-              FilePondPluginFileEncode,
-
-              // validates the size of the file
-              FilePondPluginFileValidateSize,
-
-              // corrects mobile image orientation
-              FilePondPluginImageExifOrientation,
-
-              // previews dropped images
-              FilePondPluginImagePreview
-            );
-
-            // Select the file input and use create() to turn it into a pond
-            FilePond.create(document.querySelector("input")); 
-         
-          
-          
-
-                   
+          </span>                   
           <p>
             Factoring current and technological change, Doorway helps 
             organizations develop human resource and operational strategies
