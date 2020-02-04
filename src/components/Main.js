@@ -36,22 +36,30 @@ class Main extends React.Component {
           <p>
             Welcome to Doorway.ai!  Our aim is to help organizations and 
             employees adapt to the ever changing technological changes of   
-            work.  We invite you to join us on this jounrney to help you gain
-            or maintain your competitive edge in the world of work. 
-            By the way, check out my <a href="#work">awesome work</a>.
+            work.  The usage of technology is growing by the day and it's 
+            important for you to front-run the competition. We invite you 
+            to join us on this jounrney to help you gain or maintain a 
+            competitive edge!  
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            Doorway was founded by Joseph Jones who has a breadth of experience
+            in a variety of industries and noticed too few companies and 
+            individuals are not integrating technological change into their
+            business planning and work processes.  Naturally, this makes it 
+            difficult to work efficiently and with the scaling of technology to 
+            augment daily work, it puts you further behind.  The latter words 
+            aren't empty scare-tactics, it's reality. 
+
+            Factoring current and technological change, Doorway helps 
+            organizations develop human resource and operational strategies
+            that align data, operations management and financial 
+            planning to make complex problems simpler.
+
+            In due time, Doorway will offer services to individuals but now is 
+            focusing on organizations. 
+            
+            Join Doorway as we embark on helping you manage the world of
+            technological change in a collective manner!
           </p>
           {close}
         </article>
