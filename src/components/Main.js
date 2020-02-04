@@ -38,8 +38,8 @@ class Main extends React.Component {
             employees adapt to the ever changing technological changes of   
             work.  The usage of technology is growing by the day and it's 
             important for you to front-run the competition. We invite you 
-            to join us on this jounrney to help you gain or maintain a 
-            competitive edge!  
+            to join us on this journey to help you gain or maintain a 
+            competitive edge!
           </p>
           <p>
             Doorway was founded by Joseph Jones who has a breadth of experience
@@ -72,7 +72,8 @@ class Main extends React.Component {
             
             Doorway helps organizations in:
             -- Human Resource Restructuring with the emphasis of retraining 
-               employees in new skills.  Your employees have more skills
+               employees in new skills.  Chances are, your employees have 
+               a lot more experience than you realize.
             -- Utilzing technology to make you competitive against larger,
                more financially prosperious firms.
 
