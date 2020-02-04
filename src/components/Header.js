@@ -9,7 +9,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>DOORWAY.AI</h1>
-                <p> The Future of Work -- Today <br />
+                <p>Future of Work -- Today <br />
                 Helping your organization or yourself address technological change in the workplace.</p>
             </div>
         </div>
