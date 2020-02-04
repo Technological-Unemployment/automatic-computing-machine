@@ -49,17 +49,6 @@ class Main extends React.Component {
             difficult to work efficiently and with the scaling of technology to 
             augment daily work, it puts you further behind.  The latter words 
             aren't empty scare-tactics, it's reality. 
-
-            Factoring current and technological change, Doorway helps 
-            organizations develop human resource and operational strategies
-            that align data, operations management and financial 
-            planning to make complex problems simpler.
-
-            In due time, Doorway will offer services to individuals but now is 
-            focusing on organizations. 
-            
-            Join Doorway as we embark on helping you manage the world of
-            technological change in a collective manner!
           </p>
           {close}
         </article>
@@ -100,13 +89,22 @@ class Main extends React.Component {
 
                    
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            Factoring current and technological change, Doorway helps 
+            organizations develop human resource and operational strategies
+            that align data, operations management and financial 
+            planning to make complex problems simpler.
+            
+            Doorway helps organizations in:
+            -- Human Resource Restructuring with the emphasis of retraining 
+               employees in new skills.  Your employees have more skills
+            -- Utilzing technology to make you competitive against larger,
+               more financially prosperious firms.
+
+            In due time, Doorway will offer services to individuals but now is 
+            focusing on organizations. 
+            
+            Join Doorway as we embark on helping you manage the world of
+            technological change in a collective manner!
           </p>
           {close}
         </article>
