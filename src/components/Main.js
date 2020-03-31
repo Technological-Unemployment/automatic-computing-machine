@@ -65,9 +65,9 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>                   
           <p>
-            Factoring current and technological change, Doorway helps 
-            organizations develop human resource and operational strategies
-            that align data, operations management and financial 
+            Factoring technological change, Doorway helps organizations
+            develop human resource and operational strategies that
+            align data, operations management and financial 
             planning to make complex problems simpler.
             
             Doorway helps organizations in:
@@ -98,13 +98,11 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            Doorway.ai is focused pn developoing processes to help businesses manage
+            technological change. Technological change is an increase in the efficiency
+            of a product or process that results in an increase in output, without
+            an increase in input. Doorway.ai beleives that when you engage your 
+            employees in this process, it'll improve organizational sustainabilty.
           </p>
           {close}
         </article>
