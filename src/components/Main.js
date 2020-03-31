@@ -98,7 +98,7 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Doorway.ai is focused pn developoing processes to help businesses manage
+            Doorway.ai is focused on developing processes to help businesses manage
             technological change. Technological change is an increase in the efficiency
             of a product or process that results in an increase in output, without
             an increase in input. Doorway.ai beleives that when you engage your 
