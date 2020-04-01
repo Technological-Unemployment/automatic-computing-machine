@@ -113,6 +113,8 @@ class Main extends React.Component {
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
         >
           <h2 className="major">Contact</h2>
           <form method="post" action="#">
